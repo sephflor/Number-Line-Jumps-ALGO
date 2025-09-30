@@ -1,1 +1,1 @@
-# Number-Line-Jumps-ALGO
+# Number-Line-Jumps-ALGO.This program determines whether two kangaroos, starting at different positions and moving at different speeds, will land at the same spot after the same number of jumps. It calculates if the difference in starting positions is divisible by the difference in speeds, ensuring they meet at a positive integer jump count.
